@@ -1,8 +1,6 @@
 ---
-title: Home
+title: Greetings, Programs!
 ---
 
-* Software Engineer
-* Project Wrangler
-* Product Deployer
-* Remote-first Afficianado
+
+Index
