@@ -1,5 +1,6 @@
 ---
 title: Dark Souls 2 - Soul Consumable Calculator
+layout: null
 ---
 
 <table>
